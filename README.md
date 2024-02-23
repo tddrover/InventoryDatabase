@@ -1,4 +1,4 @@
-# Metronome & Recorder App
+# Inventory Database Management
 
 A c++ program that provides a simple inventory management system using a linked list data structure to store and manipulate item records. It demonstrates basic CRUD (Create, Read, Update, Delete) operations on the inventory database.
 
